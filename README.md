@@ -1,9 +1,9 @@
 - 👋 Hi, I’m  POOJASRI M.S.
--
+
 - 👀 I’m interested in ...    "Building scalable web apps and AI-powered systems."
                               "Creating innovative solutions using JavaScript, Python, and Machine Learning."
                               "Solving real-world problems with full-stack web development."
--
+
 - 🌱 I’m currently learning ...  "Improving my skills in front-end frameworks like React, Node.js, and exploring deep learning techniques."
                                   "Focusing on data science, TensorFlow, and cloud technologies."
 
